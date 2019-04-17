@@ -1,7 +1,0 @@
-{
-    "_info": {"version": "0.0.1", "name": "generic_quest"},
-    "_origin": "{hero} must complete {quest:complete}{complete?:endingA|endingB}",
-    "quest": "the journey to slay {villain}",
-    "endingA": "the hero lived happily ever after",
-    "engingB": "the hero failed, dooming us all"
-}
